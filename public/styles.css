@@ -66,6 +66,7 @@
   }
   .practice{
     text-align: center;
+
  
   
   }
@@ -97,10 +98,11 @@
 
 }
 .meditation{
-  background-image:url('images/bgmadi.jpg');
+  background-image:url('images/bgmadi.png');
   
 
         background-size:100% 100%;
+        background: opacity 40px;;
         height:900px;
         
 
@@ -160,6 +162,13 @@
       
        
 }
+.abd{
+  background-image:url('images/contactUs.jpg');
+  background-size:100% 100%;
+  width:1897px;
+}
+ 
+
 
 .contactbox{ 
   height: 800px;

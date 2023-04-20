@@ -8,7 +8,7 @@ export default function Navbar() {
           MediYog
         </a> */}
         &nbsp;  &nbsp;  &nbsp;  
-        <img src="images/logo-01.png" width={57} height={54} alt="logo" />
+        <img src="images/logo-01.png" width={150} height={70} alt="logo" />
         <div
           className="navigation-menu">
           <ul>

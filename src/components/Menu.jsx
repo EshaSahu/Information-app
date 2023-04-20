@@ -5,7 +5,7 @@ function Menu(){
     return(
 <>
 {/* <NavLink to="/">About Us</NavLink> */}
-<NavLink to="/disease1" style={{fontWeight:"bolder"}}>Start</NavLink>
+<NavLink to="/disease1" style={{fontWeight:"bolder"}}>Learn More</NavLink>
 </>
     
     );

@@ -10,9 +10,9 @@ function Footer(){
         
 			<div class="footer-left" style={{padding: "0px 500px 0px 0px"}}>
           
-				<h1><span>Develop </span>Body, Mind and Spirit!</h1>
+				<h1><span>environmentally </span>safe</h1>
 				
-				<p className="Healer">With Yoga, the Ultimate Healer.</p>
+				<p className="Healer">dismantling of electronic waste.</p>
 
 				<p class="footer-links">
 					<a href="/home">Home</a>
@@ -23,7 +23,7 @@ function Footer(){
 				</p>
 
                
-                <p class="footer-company-name">© 2019 Online Voting System Pvt. Ltd.</p>
+                <p class="footer-company-name">© 2013 Zauba Technologies & Data Services Private Limited.</p>
 			</div>
 
 
@@ -40,11 +40,13 @@ function Footer(){
 <br></br>
 				<div>
 				<div><img className="map" src="images/mail2.png" alt="email" height={50} width={50}/>
-<p>EMAIL: <br></br><a href="mailto:Esha2010002@akgec.ac.in">Esha2010002@akgec.ac.in </a></p>
+<p>EMAIL: <br></br><a href="mailto:contact@zaubacorp.com">contact@zaubacorp.com </a></p>
 </div>
 <br></br>
 <div><img className="map" src="images/add2.png" alt="map" height={40} width={40}/>
-<p>ADDRESS: <br></br>B18/01 Walk Street, Delhi-110091</p>
+<p>ADDRESS: <br></br>Zauba Technologies Private Limited
+No 43,</p><p>Residency Road
+Bangalore - 560 025</p>
 </div>
 <br></br>
 
@@ -86,7 +88,7 @@ function Footer(){
 		</footer>  
         <footer style={{textAlign:"center", padding:"0px 0px 0px 0px", fontSize:"20px"}}>
 
-            <p > <b>Made by the team. </b> </p>
+            <p > <b>All rights reserved. </b> </p>
             
           </footer>
           </div>

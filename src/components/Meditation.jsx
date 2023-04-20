@@ -9,49 +9,88 @@ function Meditation(){
          
          <BackMediMenu />
            
-        <div style={{padding:"50px 0px 50px 730px"}}>
+        <div style={{padding:"90px 0px 50px 500px", fontSize:"20px"}}>
             
         <div>
-        <h1 style={{fontWeight:"bolder", padding:"0px 0px 40px 0px"}}>Breathe In, Breathe Out</h1>
-        </div>
-        <div >
-        
-        <Avatar2 style={{padding:"100px 0px 0px 0px"}}img="images/circlemedi.jpg" />
+        <h1 style={{fontWeight:"bolder", padding:"0px 0px 40px 0px"}}>Company Details</h1>
+       <table style={{width:"100%"}}>
+        <tr>
+        <th>CIN</th>
+        <td>U37100UR2022PTC014984</td>
+        </tr>
 
+        <tr>
+        <th>Company Name</th>
+        <td>REMINE INDIA PRIVATE LIMITED</td>
+        </tr>
+
+        <tr>
+        <th>Company Name</th>
+        <td>REMINE INDIA PRIVATE LIMITED</td>
+        </tr>
+
+        <tr>
+        <th>Company Status</th>
+        <td>Active</td>
+        </tr>
+
+        <tr>
+        <th>RoC</th>
+        <td>RoC-Uttarkhand</td>
+        </tr>
+
+        <tr>
+        <th>Registration Number</th>
+        <td>14948</td>
+        </tr>
+
+        <tr>
+        <th>Company Category</th>
+        <td>Company limited by Shares</td>
+        </tr>
+
+        <tr>
+        <th>Company sub-Category</th>
+        <td>Non-govt company</td>
+        </tr>
+
+        <tr>
+        <th>Class of Company</th>
+        <td>Private</td>
+        </tr>
+
+        <tr>
+        <th>Date of Incorporation</th>
+        <td>06 December 2022</td>
+        </tr>
+
+        <tr>
+        <th>Age of Company</th>
+        <td>0 years, 4 month, 14 days</td>
+        </tr>
+        
+        <tr>
+        <th>Activity</th>
+        <td>Recycling of metal waste and scrap [from rejected aluminum utensil, <br></br>
+           containers and other used metallic items etc. Collection of metal <br></br>
+            waste and scrap for and other use metallic items etc. Collection<br></br>
+            of metal waste and scrap for recycling is 
+             included in 51498.]
+</td>
+        </tr>
+        
+
+    </table>
         </div>
+       
         </div>
         
         
 
-       {/* <div style={{padding:"0px 0px 0px 145px"}}>
-       </div> */}
-       {/* <Timer /> */}
+     
     
     
-      <div style={{padding: "100px 150px 70px 300px"}}>
-      <span style={{padding: "0px 200px 0px 0px"}}>
-       <audio controls  >
-  <source src="horse.ogg" type="audio/ogg" />
-  <source src="./audio/medi1.mp3" type="audio/mpeg" />
-Your browser does not support the audio element.
-</audio>
-</span>
-<span style={{padding: "0px 200px 0px 0px"}}>
-<audio controls >
-  <source src="horse.ogg" type="audio/ogg" />
-  <source src="./audio/medi2.mp3" type="audio/mpeg" />
-Your browser does not support the audio element.
-</audio>
-</span>
-<span style={{padding: "0px 0px 0px 0px"}}>
-<audio controls >
-  <source src="horse.ogg" type="audio/ogg" />
-  <source src="./audio/medi3.mp3" type="audio/mpeg" />
-Your browser does not support the audio element.
-</audio>
-</span>
-</div>
-
+      
 
 
        </div>
